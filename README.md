@@ -6,7 +6,7 @@
 ```
 pipenv install pyzmq
 ```
-* Open three terminals, run in order:
+Open three terminals, run in order:
 Terminal 1:
 ```
 pipenv shell
